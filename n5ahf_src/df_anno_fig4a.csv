@@ -1,0 +1,5 @@
+yval,ystar,labs,SacTime2,Recovery2,x1,x2,xstar
+800,815,*,hr-3,EHI,0.75,1.25,1
+865,880,*cd,hr-3,EHI,1.75,2.25,2
+800,815,b,hr-3,EHI,2.75,3.25,3
+800,815,b,hr-3,EHI,3.75,4.25,4
